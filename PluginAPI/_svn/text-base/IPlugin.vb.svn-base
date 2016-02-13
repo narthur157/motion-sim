@@ -1,0 +1,5 @@
+﻿Public Interface IPlugin
+    ReadOnly Property Name() As String
+    ReadOnly Property ActionName() As String
+    Sub Calculate(ByVal value1 As Integer, ByVal value2 As Integer)
+End Interface

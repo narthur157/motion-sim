@@ -1,0 +1,142 @@
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\NAMEME_Plugin.dll
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\NAMEME_Plugin.pdb
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\NAMEME_Plugin.xml
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NAMEME_Plugin.Resources.resources
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NAMEME_Plugin.dll
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NAMEME_Plugin.xml
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NAMEME_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools Plugins\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7\Plugins 2.0\LFS\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7 SER\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\LFS V3\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\SimTools V7 SCN - GUI - 6DLLs\Plugins V3\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\bin\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.Resources.resources
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.dll
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.xml
+C:\Users\Admin\Desktop\LFS V3_Dash\AdditionPlugin\obj\Debug\LiveForSpeed_Plugin.pdb
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\obj\Debug\Plugin.vbprojResolveAssemblyReference.cache
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\obj\Debug\Plugin.vbproj.GenerateResource.Cache
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\bin\Debug\Unity_Plugin.dll
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\bin\Debug\Unity_Plugin.pdb
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\bin\Debug\Unity_Plugin.xml
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\obj\Debug\Unity_Plugin.Resources.resources
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\obj\Debug\Unity_Plugin.dll
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\obj\Debug\Unity_Plugin.xml
+C:\Users\nick\Downloads\LFS_V3_Source_Dash\LFS V3_Dash\AdditionPlugin\obj\Debug\Unity_Plugin.pdb

@@ -1,0 +1,23 @@
+﻿Imports System.Windows.Forms
+Imports PluginAPI
+
+Public Class Plugin
+    Implements IPlugin
+
+    ReadOnly Public Property Name() As String Implements IPlugin.Name
+        Get
+            Return "Addition"
+        End Get
+    End Property
+
+    ReadOnly Public Property ActionName() As String Implements IPlugin.ActionName
+        Get
+            Return "Add Values"
+        End Get
+    End Property
+
+    Public Sub Calculate (ByVal value1 As Integer, ByVal value2 As Integer) Implements IPlugin.Calculate
+        Dim result As Integer = value1 + value2
+        MessageBox.Show ("The result is " + result.ToString)
+    End Sub
+End Class

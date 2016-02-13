@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\bin\Debug\AdditionPlugin.dll
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\bin\Debug\AdditionPlugin.pdb
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\bin\Debug\AdditionPlugin.xml
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\AdditionPlugin.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\AdditionPlugin.dll
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\AdditionPlugin.xml
+C:\Users\Admin\Desktop\New folder (2)\PluginExample\AdditionPlugin\obj\Debug\AdditionPlugin.pdb
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.dll
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.pdb
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\PluginAPI.xml
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\NoLimitsSimulator_Plugin.dll
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\NoLimitsSimulator_Plugin.pdb
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\bin\Debug\NoLimitsSimulator_Plugin.xml
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NoLimitsSimulator_Plugin.Resources.resources
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NoLimitsSimulator_Plugin.dll
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NoLimitsSimulator_Plugin.xml
+C:\Users\Admin\Desktop\MyPlugin\PluginExample\AdditionPlugin\obj\Debug\NoLimitsSimulator_Plugin.pdb

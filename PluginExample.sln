@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PluginConsole", "PluginConsole\PluginConsole.vbproj", "{88CB8AFB-749A-44B0-8148-9E2EF35C48ED}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PluginAPI", "PluginAPI\PluginAPI.vbproj", "{46CD3B21-C11E-4CB8-ABDA-184A67589066}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Plugin", "AdditionPlugin\Plugin.vbproj", "{111AFF88-CCF4-4359-BC0C-A55F4F0A4197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CB8AFB-749A-44B0-8148-9E2EF35C48ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CB8AFB-749A-44B0-8148-9E2EF35C48ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CB8AFB-749A-44B0-8148-9E2EF35C48ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CB8AFB-749A-44B0-8148-9E2EF35C48ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CD3B21-C11E-4CB8-ABDA-184A67589066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CD3B21-C11E-4CB8-ABDA-184A67589066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CD3B21-C11E-4CB8-ABDA-184A67589066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CD3B21-C11E-4CB8-ABDA-184A67589066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111AFF88-CCF4-4359-BC0C-A55F4F0A4197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111AFF88-CCF4-4359-BC0C-A55F4F0A4197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111AFF88-CCF4-4359-BC0C-A55F4F0A4197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111AFF88-CCF4-4359-BC0C-A55F4F0A4197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
